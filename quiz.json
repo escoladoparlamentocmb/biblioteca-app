@@ -27,5 +27,11 @@
 {"question": "O que acontece se o Prefeito vetar (recusar) um projeto de lei aprovado pelos vereadores?",
     "options": ["O projeto é arquivado definitivamente", "O projeto volta para a Câmara, que pode derrubar o veto", "O projeto é enviado ao Governador", "O projeto vira lei automaticamente"],
     "correct": "O projeto volta para a Câmara, que pode derrubar o veto"
+  },
+  {
+    "question": "Qual é a função das Comissões Permanentes (ex: Comissão de Justiça) na Câmara?",
+    "options": ["Julgar crimes comuns", "Analisar os projetos antes de irem para votação no Plenário", "Organizar as festas do município", "Contratar os funcionários da Prefeitura"],
+    "correct": "Analisar os projetos antes de irem para votação no Plenário"
   }
 ]
+
