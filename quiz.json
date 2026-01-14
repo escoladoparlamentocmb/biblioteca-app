@@ -40,7 +40,34 @@
     "options": ["Um projeto de lei proposto diretamente pelos cidadãos", "Uma votação feita apenas na internet", "Um pedido de impeachment", "Uma reunião secreta dos vereadores"],
     "correct": "Um projeto de lei proposto diretamente pelos cidadãos"
   }
+  ,
+  {
+    "question": "Qual documento o vereador usa para sugerir melhorias ao Prefeito (como tapar um buraco ou podar uma árvore)?",
+    "options": ["Projeto de Lei", "Indicação", "Decreto", "Veto"],
+    "correct": "Indicação"
+  },
+  {
+    "question": "Como se chama o local de destaque onde os vereadores fazem seus discursos durante a sessão?",
+    "options": ["Púlpito", "Tribuna", "Palco", "Balcão"],
+    "correct": "Tribuna"
+  },
+  {
+    "question": "Como é chamada a reunião dos vereadores que ocorre fora dos dias ou horários pré-estabelecidos?",
+    "options": ["Sessão Solene", "Sessão Ordinária", "Sessão Extraordinária", "Audiência Pública"],
+    "correct": "Sessão Extraordinária"
+  },
+  {
+    "question": "Quem assume a vaga do vereador caso ele precise se afastar ou pedir licença?",
+    "options": ["O Prefeito", "O Suplente", "O Juiz Eleitoral", "Ninguém, a cadeira fica vazia"],
+    "correct": "O Suplente"
+  },
+  {
+    "question": "Qual é o órgão responsável pela administração e direção dos trabalhos dentro da Câmara Municipal?",
+    "options": ["O Plenário", "A Mesa Diretora", "O Gabinete do Prefeito", "A Comissão de Finanças"],
+    "correct": "A Mesa Diretora"
+  }
 ]
+
 
 
 
