@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "ECA em Miúdos",
+    "desc": "Estatuto da Criança e do Adolescente (2ª Ed).",
+    "color": "#FF8C00",
+    "cover": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/c0c6adb979030abaa565a901905396481b12030f/ECA%20em%20mi%C3%BAdos%202ed..png",
+    "link": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/c0c6adb979030abaa565a901905396481b12030f/ECA_em_miudos_2ed.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Constituição em Miúdos I",
+    "desc": "A lei máxima do país explicada para jovens.",
+    "color": "#007ACC",
+    "cover": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/Constitui%C3%A7%C3%A3o%20em%20Mi%C3%BAdos%20I.png",
+    "link": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/Constituicao_miudos_5ed.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Lei Maria da Penha",
+    "desc": "Conscientização sobre direitos das mulheres.",
+    "color": "#C71585",
+    "cover": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/lei%20maria%20da%20penha%20em%20miudos.png",
+    "link": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/Lei_maria_da_penha_miudos%20(1).pdf"
+  },
+  {
+    "id": 4,
+    "title": "Constituição em Miúdos II",
+    "desc": "Continuação da jornada cidadã.",
+    "color": "#4682B4",
+    "cover": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/Constitui%C3%A7%C3%A3o%20em%20Mi%C3%BAdos%20II.png",
+    "link": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/Constituicao_miudos_II_4ed.pdf"
+  },
+  {
+    "id": 5,
+    "title": "Estatuto Igualdade Racial",
+    "desc": "História e direitos da população negra.",
+    "color": "#D2691E",
+    "cover": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/Estatudo%20da%20igualdade%20racial%20em%20mi%C3%BAdos.png",
+    "link": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/Estatuto_igualdade_racial_miudos_2ed.pdf"
+  },
+  {
+    "id": 6,
+    "title": "Defesa do Consumidor",
+    "desc": "Seus direitos na hora de comprar.",
+    "color": "#2E8B57",
+    "cover": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/C%C3%B3digo%20de%20defesa%20do%20consumidor%20em%20mi%C3%BAdos.png",
+    "link": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/Codigo_defesa_consumidor_miudos.pdf"
+  },
+  {
+    "id": 7,
+    "title": "Cartilha de Atividades",
+    "desc": "Jogos sobre a Constituição.",
+    "color": "#DAA520",
+    "cover": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/Constitui%C3%A7%C3%A3o%20em%20Mi%C3%BAdos%20-%20Cartilha%20das%20Atividades%20-%203ed..png",
+    "link": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/Constituicao_miudos_cartilha_atividades_3ed.pdf"
+  },
+  {
+    "id": 8,
+    "title": "Agenda 2030",
+    "desc": "Objetivos de desenvolvimento sustentável.",
+    "color": "#20B2AA",
+    "cover": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/58560c867b4b8e2a9413f93a5e01070ee463f557/Agenda%202030%20em%20Mi%C3%BAdos.png",
+    "link": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/58560c867b4b8e2a9413f93a5e01070ee463f557/Agenda_2030_miudos.pdf"
+  },
+  {
+    "id": 9,
+    "title": "Estatuto da PCD",
+    "desc": "Inclusão da Pessoa com Deficiência.",
+    "color": "#4169E1",
+    "cover": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/Estatudo%20da%20PCD.png",
+    "link": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/081c3d29d25cf79a9fe2097e46a0d55457e1b0b2/Estatuto_PCD_miudos.pdf"
+  }
+]
