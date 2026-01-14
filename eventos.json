@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Workshop: Oratória e Retórica",
+    "date": "15/MAR",
+    "time": "14h00",
+    "local": "Plenário da Câmara",
+    "cover": "https://github.com/escoladoparlamentocmb/biblioteca-app/blob/main/banner_oratoria.png?raw=true",
+    "link": "https://forms.gle/exemploDeLink123"
+  },
+  {
+    "title": "Palestra: Direito Constitucional",
+    "date": "20/MAR",
+    "time": "19h00",
+    "local": "Auditório Principal",
+    "cover": "", 
+    "link": "https://www.barueri.sp.leg.br"
+  },
+  {
+    "title": "Sessão Solene",
+    "date": "01/ABR",
+    "time": "10h00",
+    "local": "Plenário",
+    "cover": "",
+    "link": ""
+  }
+]
