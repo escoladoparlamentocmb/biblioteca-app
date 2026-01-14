@@ -1,37 +1,9 @@
 [
-  { question: "Qual é a principal função do Poder Legislativo?", options: ["Julgar crimes", "Criar e fiscalizar leis", "Executar obras", "Comandar a polícia"], correct: "Criar e fiscalizar leis" },
-  { question: "Como são chamados os representantes na Câmara Municipal?", options: ["Deputados", "Senadores", "Vereadores", "Prefeitos"], correct: "Vereadores" },
-  { question: "Quem é o chefe do Poder Executivo Municipal?", options: ["O Vereador", "O Prefeito", "O Juiz", "O Governador"], correct: "O Prefeito" },
-  { question: "Quantos anos dura o mandato de um vereador?", options: ["2 anos", "4 anos", "5 anos", "6 anos"], correct: "4 anos" },
-  { question: "Onde as leis municipais são votadas?", options: ["No Plenário", "No Gabinete", "Na Prefeitura", "No Fórum"], correct: "No Plenário" },
-  { question: "Qual a idade mínima para ser vereador no Brasil?", options: ["16 anos", "18 anos", "21 anos", "25 anos"], correct: "18 anos" },
-  { question: "O voto no Brasil é obrigatório para quem tem entre:", options: ["16 e 70 anos", "18 e 70 anos", "18 e 60 anos", "16 e 65 anos"], correct: "18 e 70 anos" },
-  { question: "Quantos poderes existem na República Brasileira?", options: ["1 (Executivo)", "2 (Legislativo e Judiciário)", "3 (Executivo, Legislativo e Judiciário)", "4 (Incluindo o Moderador)"], correct: "3 (Executivo, Legislativo e Judiciário)" },
-  { question: "Qual é a lei máxima do nosso país?", options: ["O Código Penal", "A Constituição Federal", "O Código Civil", "A Lei Orgânica"], correct: "A Constituição Federal" },
-  { question: "Quem substitui o Prefeito em caso de ausência?", options: ["O Presidente da Câmara", "O Vice-Prefeito", "O Juiz", "O Secretário"], correct: "O Vice-Prefeito" },
-  { question: "O que é a Lei Orgânica?", options: ["A 'Constituição' do Município", "Uma lei de trânsito", "O regimento do estado", "Uma regra escolar"], correct: "A 'Constituição' do Município" },
-  { question: "Qual destes NÃO é função de um vereador?", options: ["Criar leis", "Fiscalizar o prefeito", "Asfaltar ruas", "Ouvir a população"], correct: "Asfaltar ruas" },
-  { question: "O que significa a sigla LOA?", options: ["Lei de Obras Abertas", "Lei Orçamentária Anual", "Liga de Ordem Ambiental", "Livre Organização Ampla"], correct: "Lei Orçamentária Anual" },
-  { question: "O que é o 'Recesso Parlamentar'?", options: ["Férias coletivas", "Pausa nas sessões ordinárias", "Fim do mandato", "Greve dos vereadores"], correct: "Pausa nas sessões ordinárias" },
-  { question: "Como se chama a proposta de lei antes de ser aprovada?", options: ["Decreto", "Projeto de Lei", "Emenda", "Estatuto"], correct: "Projeto de Lei" },
-  { question: "Quem julga se uma lei municipal é inconstitucional?", options: ["O Prefeito", "A Câmara", "O Poder Judiciário", "A Polícia"], correct: "O Poder Judiciário" },
-  { question: "O que é uma Audiência Pública?", options: ["Um julgamento", "Reunião para ouvir a população", "Uma festa da cidade", "Uma reunião secreta"], correct: "Reunião para ouvir a população" },
-  { question: "O que é o Diário Oficial?", options: ["Jornal de notícias esportivas", "Jornal onde o governo publica atos", "Agenda do Prefeito", "Livro de ponto"], correct: "Jornal onde o governo publica atos" },
-  { question: "Quantos turnos de votação geralmente são necessários para aprovar uma lei?", options: ["Apenas 1", "2 turnos", "3 turnos", "Não precisa de votação"], correct: "2 turnos" },
-  { question: "O Presidente da Câmara é eleito por quem?", options: ["Pelo Prefeito", "Pela população", "Pelos próprios vereadores", "Pelo Juiz"], correct: "Pelos próprios vereadores" },
-  { question: "O que é o Quórum?", options: ["Sala de reuniões", "Quantidade mínima de vereadores para votação", "O salário do vereador", "Um tipo de lei"], correct: "Quantidade mínima de vereadores para votação" },
-  { question: "O que é uma CPI?", options: ["Comissão Parlamentar de Inquérito", "Centro de Pesquisa Interna", "Comitê de Planejamento Integrado", "Clube Político Irmandade"], correct: "Comissão Parlamentar de Inquérito" },
-  { question: "Qual a função do Tribunal de Contas?", options: ["Julgar crimes comuns", "Auxiliar na fiscalização financeira", "Criar impostos", "Prender políticos"], correct: "Auxiliar na fiscalização financeira" },
-  { question: "O que é Veto?", options: ["Aprovação total", "Ato do Prefeito recusando um projeto", "Voto em branco", "Ausência na sessão"], correct: "Ato do Prefeito recusando um projeto" },
-  { question: "O que são Emendas Impositivas?", options: ["Erros no texto da lei", "Recursos que o vereador destina obrigatoriamente", "Sugestões que o prefeito ignora", "Leis antigas"], correct: "Recursos que o vereador destina obrigatoriamente" },
-{"question": "O que acontece se o Prefeito vetar (recusar) um projeto de lei aprovado pelos vereadores?",
-    "options": ["O projeto é arquivado definitivamente", "O projeto volta para a Câmara, que pode derrubar o veto", "O projeto é enviado ao Governador", "O projeto vira lei automaticamente"],
-    "correct": "O projeto volta para a Câmara, que pode derrubar o veto"
-  },
-  {
-    "question": "Qual é a função das Comissões Permanentes (ex: Comissão de Justiça) na Câmara?",
-    "options": ["Julgar crimes comuns", "Analisar os projetos antes de irem para votação no Plenário", "Organizar as festas do município", "Contratar os funcionários da Prefeitura"],
-    "correct": "Analisar os projetos antes de irem para votação no Plenário"
+{
+    "question": "O que é a 'Iniciativa Popular' no processo legislativo?",
+    "options": ["Um projeto de lei proposto diretamente pelos cidadãos", "Uma votação feita apenas na internet", "Um pedido de impeachment", "Uma reunião secreta dos vereadores"],
+    "correct": "Um projeto de lei proposto diretamente pelos cidadãos"
   }
 ]
+
 
