@@ -23,5 +23,9 @@
   { question: "O que é uma CPI?", options: ["Comissão Parlamentar de Inquérito", "Centro de Pesquisa Interna", "Comitê de Planejamento Integrado", "Clube Político Irmandade"], correct: "Comissão Parlamentar de Inquérito" },
   { question: "Qual a função do Tribunal de Contas?", options: ["Julgar crimes comuns", "Auxiliar na fiscalização financeira", "Criar impostos", "Prender políticos"], correct: "Auxiliar na fiscalização financeira" },
   { question: "O que é Veto?", options: ["Aprovação total", "Ato do Prefeito recusando um projeto", "Voto em branco", "Ausência na sessão"], correct: "Ato do Prefeito recusando um projeto" },
-  { question: "O que são Emendas Impositivas?", options: ["Erros no texto da lei", "Recursos que o vereador destina obrigatoriamente", "Sugestões que o prefeito ignora", "Leis antigas"], correct: "Recursos que o vereador destina obrigatoriamente" }
+  { question: "O que são Emendas Impositivas?", options: ["Erros no texto da lei", "Recursos que o vereador destina obrigatoriamente", "Sugestões que o prefeito ignora", "Leis antigas"], correct: "Recursos que o vereador destina obrigatoriamente" },
+{"question": "O que acontece se o Prefeito vetar (recusar) um projeto de lei aprovado pelos vereadores?",
+    "options": ["O projeto é arquivado definitivamente", "O projeto volta para a Câmara, que pode derrubar o veto", "O projeto é enviado ao Governador", "O projeto vira lei automaticamente"],
+    "correct": "O projeto volta para a Câmara, que pode derrubar o veto"
+  }
 ]
