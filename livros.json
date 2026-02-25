@@ -70,13 +70,6 @@
     "sinopse": "Inclusão da Pessoa com Deficiência.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatudo%20da%20PCD.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatuto_PCD_miudos.pdf"
-  },
-  {
-    "id": 10,
-    "titulo": "Código Civil",
-    "autor": "Senado Federal",
-    "sinopse": "Lei nº 10.406, que institui o Código Civil brasileiro.",
-    "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/m-logo-maior.png",
-    "link": "https://www2.senado.leg.br/bdsf/item/id/518231"
   }
 ]
+
