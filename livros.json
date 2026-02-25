@@ -4,7 +4,6 @@
     "titulo": "ECA em Miúdos",
     "autor": "Senado Federal",
     "sinopse": "Estatuto da Criança e do Adolescente (2ª Ed).",
-    "cor": "#FF8C00",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/ECA%20em%20mi%C3%BAdos%202ed..png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/ECA_em_miudos_2ed.pdf"
   },
@@ -13,7 +12,6 @@
     "titulo": "Constituição em Miúdos I",
     "autor": "Senado Federal",
     "sinopse": "A lei máxima do país explicada para jovens.",
-    "cor": "#007ACC",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Constitui%C3%A7%C3%A3o%20em%20Mi%C3%BAdos%20I.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Constituicao_miudos_5ed.pdf"
   },
@@ -22,7 +20,6 @@
     "titulo": "Lei Maria da Penha",
     "autor": "Senado Federal",
     "sinopse": "Conscientização sobre direitos das mulheres.",
-    "cor": "#C71585",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/lei%20maria%20da%20penha%20em%20miudos.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Lei_maria_da_penha_miudos%20(1).pdf"
   },
@@ -31,7 +28,6 @@
     "titulo": "Constituição em Miúdos II",
     "autor": "Senado Federal",
     "sinopse": "Continuação da jornada cidadã.",
-    "cor": "#4682B4",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Constitui%C3%A7%C3%A3o%20em%20Mi%C3%BAdos%20II.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Constituicao_miudos_II_4ed.pdf"
   },
@@ -40,7 +36,6 @@
     "titulo": "Estatuto Igualdade Racial",
     "autor": "Senado Federal",
     "sinopse": "História e direitos da população negra.",
-    "cor": "#D2691E",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatudo%20da%20igualdade%20racial%20em%20mi%C3%BAdos.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatuto_igualdade_racial_miudos_2ed.pdf"
   },
@@ -49,7 +44,6 @@
     "titulo": "Defesa do Consumidor",
     "autor": "Senado Federal",
     "sinopse": "Seus direitos na hora de comprar.",
-    "cor": "#2E8B57",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/C%C3%B3digo%20de%20defesa%20do%20consumidor%20em%20mi%C3%BAdos.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Codigo_defesa_consumidor_miudos.pdf"
   },
@@ -58,7 +52,6 @@
     "titulo": "Cartilha de Atividades",
     "autor": "Senado Federal",
     "sinopse": "Jogos sobre a Constituição.",
-    "cor": "#DAA520",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Constitui%C3%A7%C3%A3o%20em%20Mi%C3%BAdos%20-%20Cartilha%20das%20Atividades%20-%203ed..png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Constituicao_miudos_cartilha_atividades_3ed.pdf"
   },
@@ -67,7 +60,6 @@
     "titulo": "Agenda 2030",
     "autor": "Senado Federal",
     "sinopse": "Objetivos de desenvolvimento sustentável.",
-    "cor": "#20B2AA",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Agenda%202030%20em%20Mi%C3%BAdos.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Agenda_2030_miudos.pdf"
   },
@@ -76,17 +68,15 @@
     "titulo": "Estatuto da PCD",
     "autor": "Senado Federal",
     "sinopse": "Inclusão da Pessoa com Deficiência.",
-    "cor": "#4169E1",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatudo%20da%20PCD.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatuto_PCD_miudos.pdf"
   },
   {
     "id": 10,
-    "titulo": "Estatuto da Pessoa com Deficiência",
+    "titulo": "Código Civil",
     "autor": "Senado Federal",
-    "sinopse": "Inclusão da Pessoa com Deficiência.",
-    "cor": "#4169E1",
-    "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatudo%20da%20PCD.png",
-    "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatuto_PCD_miudos.pdf"
+    "sinopse": "Lei nº 10.406, que institui o Código Civil brasileiro.",
+    "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/m-logo-maior.png",
+    "link": "https://www2.senado.leg.br/bdsf/item/id/518231"
   }
 ]
