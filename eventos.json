@@ -2,7 +2,7 @@
   {
     "id": 1,
     "titulo": "Oficina - Educação Política para Educadores",
-    "texto": "<b>Descrição do curso</b>: O curso visa capacitar educadores populares para planejar, mediar e avaliar ações formativas que promovam a consciência crítica, a cidadania ativa e o protagonismo social,<br>com base nos princípios da educação popular e da educação política transformadora.<br><br> <b>PÚBLICO-ALVO:</b>para professores, agentes comunitários, oficineiros, bibliotecários, mediadores culturais e servidores públicos atuantes em projetos sociais.",
+    "texto": "<span style='font-weight:900; color:#000;'>Descrição do curso:</span> O curso visa capacitar educadores populares para planejar, mediar e avaliar ações formativas que promovam a consciência crítica, a cidadania ativa e o protagonismo social, com base nos princípios da educação popular e da educação política transformadora.<br><br><span style='font-weight:900; color:#000;'>PÚBLICO-ALVO:</span> para professores, agentes comunitários, oficineiros, bibliotecários, mediadores culturais e servidores públicos atuantes em projetos sociais.",
     "botao": "Inscreva-se",
     "link": "https://sisepb.barueri.sp.leg.br/sisepb/public/events/view/184"
   },
@@ -14,6 +14,7 @@
     "link": "https://www.google.com"
   }
 ]
+
 
 
 
