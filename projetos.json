@@ -1,10 +1,16 @@
 [
   {
     "id": 1,
-    "titulo": "Oficina: Educação Política para Educadores",
+    "titulo": "Biblioteca On-line",
+    "descricao": "Biblioteca on-line da Câmara Municipal de Barueri.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/b-logo.png",
-    "texto": "<b>Descrição do curso:</b> O curso visa capacitar educadores populares...<br><br><b>PÚBLICO-ALVO:</b> Professores e agentes comunitários.",
-    "botao": "Inscreva-se",
-    "link": "https://sisepb.barueri.sp.leg.br/sisepb/public/events/view/184"
+    "conteudo": "Aqui vai o texto longo para a próxima página..."
+  },
+  {
+    "id": 2,
+    "titulo": "Moodle",
+    "descricao": "Plataforma de cursos on-line",
+    "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/m-logo.png",
+    "conteudo": "Aqui vai o texto longo do Moodle..."
   }
 ]
