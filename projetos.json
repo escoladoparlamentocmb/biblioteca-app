@@ -4,13 +4,13 @@
     "titulo": "Biblioteca On-line",
     "descricao": "Biblioteca on-line da Câmara Municipal de Barueri",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/b-logo.png",
-    "conteudo": "Aqui você escreve TODO o texto que antes estava no blog-single-6.html. Pode usar <br> para pular linha."
+    "conteudo": "<b>Bem-vindo à Biblioteca On-line!</b><br><br>Aqui você pode acessar todo o nosso acervo digital de forma gratuita. Este projeto visa facilitar o acesso à informação para todos os cidadãos de Barueri."
   },
   {
     "id": 2,
     "titulo": "Moodle",
     "descricao": "Plataforma de cursos on-line",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/m-logo.png",
-    "conteudo": "Aqui você coloca o conteúdo completo que estava no blog-single-7.html."
+    "conteudo": "A plataforma <b>Moodle</b> da Escola do Parlamento oferece cursos de capacitação política, legislativa e muito mais. Inscreva-se e comece a estudar agora mesmo!"
   }
 ]
