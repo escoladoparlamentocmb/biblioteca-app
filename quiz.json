@@ -1,6 +1,4 @@
 [
-  
-[
   {
     "pergunta": "Qual é a principal função do Poder Legislativo?",
     "opcoes": ["Julgar crimes", "Criar e fiscalizar leis", "Executar obras", "Comandar a polícia"],
@@ -79,10 +77,91 @@
   {
     "pergunta": "Quem julga se uma lei municipal é inconstitucional?",
     "opcoes": ["O Prefeito", "A Câmara", "O Poder Judiciário", "A Polícia"],
-
-  
+    "correta": 2
+  },
+  {
+    "pergunta": "O que é uma Audiência Pública?",
+    "opcoes": ["Um julgamento", "Reunião para ouvir a população", "Uma festa da cidade", "Uma reunião secreta"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que é o Diário Oficial?",
+    "opcoes": ["Jornal de notícias esportivas", "Jornal onde o governo publica atos", "Agenda do Prefeito", "Livro de ponto"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quantos turnos de votação geralmente são necessários para aprovar uma lei?",
+    "opcoes": ["Apenas 1", "2 turnos", "3 turnos", "Não precisa de votação"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O Presidente da Câmara é eleito por quem?",
+    "opcoes": ["Pelo Prefeito", "Pela população", "Pelos próprios vereadores", "Pelo Juiz"],
+    "correta": 2
+  },
+  {
+    "pergunta": "O que é o Quórum?",
+    "opcoes": ["Sala de reuniões", "Quantidade mínima de vereadores para votação", "O salário do vereador", "Um tipo de lei"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que é uma CPI?",
+    "opcoes": ["Comissão Parlamentar de Inquérito", "Centro de Pesquisa Interna", "Comitê de Planejamento Integrado", "Clube Político Irmandade"],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual a função do Tribunal de Contas?",
+    "opcoes": ["Julgar crimes comuns", "Auxiliar na fiscalização financeira", "Criar impostos", "Prender políticos"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que é Veto?",
+    "opcoes": ["Aprovação total", "Ato do Prefeito recusando um projeto", "Voto em branco", "Ausência na sessão"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que são Emendas Impositivas?",
+    "opcoes": ["Erros no texto da lei", "Recursos que o vereador destina obrigatoriamente", "Sugestões que o prefeito ignora", "Leis antigas"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que acontece se o Prefeito vetar (recusar) um projeto de lei aprovado pelos vereadores?",
+    "opcoes": ["O projeto é arquivado definitivamente", "O projeto volta para a Câmara, que pode derrubar o veto", "O projeto é enviado ao Governador", "O projeto vira lei automaticamente"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é a função das Comissões Permanentes (ex: Comissão de Justiça) na Câmara?",
+    "opcoes": ["Julgar crimes comuns", "Analisar os projetos antes de irem para votação no Plenário", "Organizar as festas do município", "Contratar os funcionários da Prefeitura"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que é a 'Iniciativa Popular' no processo legislativo?",
+    "opcoes": ["Um projeto de lei proposto diretamente pelos cidadãos", "Uma votação feita apenas na internet", "Um pedido de impeachment", "Uma reunião secreta dos vereadores"],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual documento o vereador usa para sugerir melhorias ao Prefeito (como tapar um buraco ou podar uma árvore)?",
+    "opcoes": ["Projeto de Lei", "Indicação", "Decreto", "Veto"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Como se chama o local de destaque onde os vereadores fazem seus discursos durante a sessão?",
+    "opcoes": ["Púlpito", "Tribuna", "Palco", "Balcão"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Como é chamada a reunião dos vereadores que ocorre fora dos dias ou horários pré-estabelecidos?",
+    "opcoes": ["Sessão Solene", "Sessão Ordinária", "Sessão Extraordinária", "Audiência Pública"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quem assume a vaga do vereador caso ele precise se afastar ou pedir licença?",
+    "opcoes": ["O Prefeito", "O Suplente", "O Juiz Eleitoral", "Ninguém, a cadeira fica vazia"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o órgão responsável pela administração e direção dos trabalhos dentro da Câmara Municipal?",
+    "opcoes": ["O Plenário", "A Mesa Diretora", "O Gabinete do Prefeito", "A Comissão de Finanças"],
+    "correta": 1
+  }
 ]
-
-
-
-
