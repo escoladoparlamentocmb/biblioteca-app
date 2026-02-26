@@ -12,8 +12,7 @@
     "titulo": "Moodle",
     "descricao": "Plataforma de cursos on-line",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/m-logo.png",
-    "conteudo": "Aqui vai o texto longo do Moodle..."
+    "conteudo": "Aqui vai o texto longo do Moodle...",
     "link": "https://link-para-a-biblioteca.com"
-
-    [
+  }
 ]
