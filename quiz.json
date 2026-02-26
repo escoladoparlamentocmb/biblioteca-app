@@ -1,20 +1,88 @@
 [
+  
+[
   {
-    "pergunta": "Qual é a função do Poder Legislativo Municipal?",
-    "opcoes": ["Executar obras", "Criar leis e fiscalizar", "Julgar crimes", "Comandar a polícia"],
+    "pergunta": "Qual é a principal função do Poder Legislativo?",
+    "opcoes": ["Julgar crimes", "Criar e fiscalizar leis", "Executar obras", "Comandar a polícia"],
     "correta": 1
   },
   {
-    "pergunta": "Onde são realizadas as sessões da Câmara Municipal?",
-    "opcoes": ["No Fórum", "No Plenário", "Na Prefeitura", "No Teatro"],
+    "pergunta": "Como são chamados os representantes na Câmara Municipal?",
+    "opcoes": ["Deputados", "Senadores", "Vereadores", "Prefeitos"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quem é o chefe do Poder Executivo Municipal?",
+    "opcoes": ["O Vereador", "O Prefeito", "O Juiz", "O Governador"],
     "correta": 1
   },
-   {
-    "pergunta": "Onde Municipal?",
-    "opcoes": ["No fffffrum", "No Plxxxxxo", "Na xxxxxa", "No Taaaaaaro"],
-    "correta": 3
-  }
+  {
+    "pergunta": "Quantos anos dura o mandato de um vereador?",
+    "opcoes": ["2 anos", "4 anos", "5 anos", "6 anos"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Onde as leis municipais são votadas?",
+    "opcoes": ["No Plenário", "No Gabinete", "Na Prefeitura", "No Fórum"],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual a idade mínima para ser vereador no Brasil?",
+    "opcoes": ["16 anos", "18 anos", "21 anos", "25 anos"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O voto no Brasil é obrigatório para quem tem entre:",
+    "opcoes": ["16 e 70 anos", "18 e 70 anos", "18 e 60 anos", "16 e 65 anos"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quantos poderes existem na República Brasileira?",
+    "opcoes": ["1 (Executivo)", "2 (Legislativo e Judiciário)", "3 (Executivo, Legislativo e Judiciário)", "4 (Incluindo o Moderador)"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a lei máxima do nosso país?",
+    "opcoes": ["O Código Penal", "A Constituição Federal", "O Código Civil", "A Lei Orgânica"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem substitui o Prefeito em caso de ausência?",
+    "opcoes": ["O Presidente da Câmara", "O Vice-Prefeito", "O Juiz", "O Secretário"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que é a Lei Orgânica?",
+    "opcoes": ["A 'Constituição' do Município", "Uma lei de trânsito", "O regimento do estado", "Uma regra escolar"],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual destes NÃO é função de um vereador?",
+    "opcoes": ["Criar leis", "Fiscalizar o prefeito", "Asfaltar ruas", "Ouvir a população"],
+    "correta": 2
+  },
+  {
+    "pergunta": "O que significa a sigla LOA?",
+    "opcoes": ["Lei de Obras Abertas", "Lei Orçamentária Anual", "Liga de Ordem Ambiental", "Livre Organização Ampla"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que é o 'Recesso Parlamentar'?",
+    "opcoes": ["Férias coletivas", "Pausa nas sessões ordinárias", "Fim do mandato", "Greve dos vereadores"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Como se chama a proposta de lei antes de ser aprovada?",
+    "opcoes": ["Decreto", "Projeto de Lei", "Emenda", "Estatuto"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem julga se uma lei municipal é inconstitucional?",
+    "opcoes": ["O Prefeito", "A Câmara", "O Poder Judiciário", "A Polícia"],
+
+  
 ]
+
 
 
 
