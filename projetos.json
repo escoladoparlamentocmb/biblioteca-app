@@ -4,7 +4,8 @@
     "titulo": "Biblioteca On-line",
     "descricao": "Biblioteca on-line da Câmara Municipal de Barueri.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/b-logo.png",
-    "conteudo": "Aqui vai o texto longo para a próxima página..."
+    "conteudo": "<p>A Biblioteca Digital da Escola do Parlamento atua com o objetivo de democratizar a leitura e de ampliação do acesso ao conhecimento...</p><p>Além do resgate cultural...</p>",
+    "link": "https://philos.sophia.com.br/terminal/9814"
   },
   {
     "id": 2,
@@ -12,5 +13,7 @@
     "descricao": "Plataforma de cursos on-line",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/m-logo.png",
     "conteudo": "Aqui vai o texto longo do Moodle..."
-  }
+    "link": "https://link-para-a-biblioteca.com"
+
+    [
 ]
