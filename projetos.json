@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "título": "Biblioteca on-line",
     "descricao": "Biblioteca on-line da Câmara Municipal de Barueri.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/b-logo.png",
     "imagem_capa": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/b-logo-maior2.png",
@@ -9,6 +10,7 @@
   },
   {
     "id": 2,
+     "título": "Moodle",
      "descricao": "Plataforma de cursos on-line",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/m-logo.png",
     "imagem_capa": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/m-logo-maior2.png",
