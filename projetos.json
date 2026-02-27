@@ -4,7 +4,7 @@
     "titulo": "Biblioteca On-line",
     "descricao": "Biblioteca on-line da Câmara Municipal de Barueri.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/b-logo.png",
-    "imagem_capa": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/b-logo-maior.png",
+    "imagem_capa": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/b-logo-maior2.png",
     "conteudo": "A Biblioteca Digital da Escola do Parlamento atua como o objetivo de democratizar a leitura e ampliação do acesso ao conhecimento. Nosso acervo destaca-se por oferecer grandes obras de domínio público da literatura nacional e mundial que passaram por uma cuidadosa nova diagramação. Esse trabalho gráfico foi pensado para tornar a leitura em telas mais fluida, confortável e atrativa, aproximando o público dos clássicos literários.<br><br>Além do resgate cultural, a plataforma complementa um papel fundamental na educação política e jurídico ao disponibilizar obras históricas e compilações de legislações essenciais ao dia a dia da sociedade – englobando temas como direitos civis, proteção de dados e legislações de amparo e defesa da mulher.",
     "link": "https://philos.sophia.com.br/terminal/9814"
   },
@@ -13,7 +13,7 @@
     "titulo": "Moodle",
     "descricao": "Plataforma de cursos on-line",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/m-logo.png",
-    "imagem_capa": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/m-logo-maior.png",
+    "imagem_capa": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/m-logo-maior2.png",
     "conteudo": "A Plataforma Moodle de Educação a Distância foi inventada pela Escola do Parlamento com o objetivo principal de democratizar o acesso ao conhecimento e à formação cidadã. Através de um ambiente virtual moderno e intuitivo, o espaço oferece diversas capacitações em temas variados. Todos os cursos são gratuitos e abertos ao público em geral, permitindo que qualquer pessoa com interesse no assunto participe.<br><br>Além de promover o aprendizado contínuo e a atração com o Legislativo, as formações geram certificados de conclusão aos participantes que atingem os critérios de aprovação, podendo ser utilizados para enriquecimento curricular e qualificação profissional. As inscrições e o acesso aos conteúdos podem ser realizados diretamente pelo nosso portal.",
     "link": "https://avabaruerileg.net/moodle/"
   }
