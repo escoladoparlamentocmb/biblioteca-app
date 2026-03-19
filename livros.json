@@ -66,8 +66,8 @@
   {
     "id": 9,
     "titulo": "Estatuto da PCD em Miúdos",
-    "autor": "É uma revista em quadrinhos lançada pelo Senado Federal que traduz a Lei Brasileira de Inclusão (Lei 13.146/2015) para crianças e jovens. A obra, com personagens marcantes, ensina de forma lúdica sobre direitos, respeito, acessibilidade e cidadania, focando na inclusão social e na valorização das diferenças.",
-    "sinopse": "Inclusão da Pessoa com Deficiência.",
+    "autor": "Senado Federal.",
+    "sinopse": "É uma revista em quadrinhos lançada pelo Senado Federal que traduz a Lei Brasileira de Inclusão (Lei 13.146/2015) para crianças e jovens. A obra, com personagens marcantes, ensina de forma lúdica sobre direitos, respeito, acessibilidade e cidadania, focando na inclusão social e na valorização das diferenças.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatudo%20da%20PCD.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatuto_PCD_miudos.pdf"
   }
