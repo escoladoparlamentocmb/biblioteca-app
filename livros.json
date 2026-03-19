@@ -17,9 +17,9 @@
   },
   {
     "id": 3,
-    "titulo": "Lei Maria da Penha",
+    "titulo": "Lei Maria da Penha em Miúdos",
     "autor": "Senado Federal",
-    "sinopse": "Conscientização sobre direitos das mulheres.",
+    "sinopse": "A cartilha explica de forma didática e acessível a Lei nº 11.340/2006, focando na prevenção da violência doméstica contra a mulher. A obra detalha os cinco tipos de violência (física, psicológica, sexual, patrimonial e moral), os direitos das vítimas e os mecanismos de proteção.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/lei%20maria%20da%20penha%20em%20miudos.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Lei_maria_da_penha_miudos%20(1).pdf"
   },
@@ -27,46 +27,46 @@
     "id": 4,
     "titulo": "Constituição em Miúdos II",
     "autor": "Senado Federal",
-    "sinopse": "Continuação da jornada cidadã.",
+    "sinopse": "É uma obra didática voltada a jovens de 12 a 15 anos, focada em aprofundar as conquistas sociais e mudanças na Constituição de 1988. Com linguagem simples e ilustrações, o livro aborda temas como direito do trabalho, sistema orçamentário, segurança pública e cidadania, estimulando a reflexão crítica.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Constitui%C3%A7%C3%A3o%20em%20Mi%C3%BAdos%20II.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Constituicao_miudos_II_4ed.pdf"
   },
   {
     "id": 5,
-    "titulo": "Estatuto Igualdade Racial",
+    "titulo": "Estatuto Igualdade Racial em Miúdos",
     "autor": "Senado Federal",
-    "sinopse": "História e direitos da população negra.",
+    "sinopse": "Apresenta de forma simplificada e direta a realidade racial do país, destacando os pontos principais do Estatuto da Igualdade Racial. Utilizando a linguagem dos jovens e a força dos quadrinhos para traduzir em desenhos, números e palavras os pontos principais do Estatuto.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatudo%20da%20igualdade%20racial%20em%20mi%C3%BAdos.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatuto_igualdade_racial_miudos_2ed.pdf"
   },
   {
     "id": 6,
-    "titulo": "Defesa do Consumidor",
+    "titulo": "Código de Defesa do Consumidor em Miúdos",
     "autor": "Senado Federal",
-    "sinopse": "Seus direitos na hora de comprar.",
+    "sinopse": "Estabelece normas de proteção e defesa do consumidor, de ordem pública e interesse social, nos termos dos arts. 5°, inciso XXXII, 170, inciso V, da Constituição Federal e art. 48 de suas Disposições Transitórias, em formato de história em quadrinhos.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/C%C3%B3digo%20de%20defesa%20do%20consumidor%20em%20mi%C3%BAdos.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Codigo_defesa_consumidor_miudos.pdf"
   },
   {
     "id": 7,
-    "titulo": "Cartilha de Atividades",
+    "titulo": "Constituição em Miúdos - Cartilha de Atividades",
     "autor": "Senado Federal",
-    "sinopse": "Jogos sobre a Constituição.",
+    "sinopse": "A cartilha de atividades do livro Constituição em Miúdos tem como objetivo levar o conteúdo da Constituição Federal para os alunos do Ensino Fundamental I.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Constitui%C3%A7%C3%A3o%20em%20Mi%C3%BAdos%20-%20Cartilha%20das%20Atividades%20-%203ed..png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Constituicao_miudos_cartilha_atividades_3ed.pdf"
   },
   {
     "id": 8,
-    "titulo": "Agenda 2030",
+    "titulo": "Agenda 2030 em Miúdos",
     "autor": "Senado Federal",
-    "sinopse": "Objetivos de desenvolvimento sustentável.",
+    "sinopse": "Os Objetivos de Desenvolvimento Sustentável (ODS) foram traduzidos em formas e cores com o propósito de apresentar às novas gerações o pacto global firmado por mais de 190 países, incluindo o Brasil. Esse pacto busca enfrentar os principais desafios contemporâneos, como pobreza, desigualdade, mudanças climáticas, fome, violência e o acesso à educação e à saúde.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Agenda%202030%20em%20Mi%C3%BAdos.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Agenda_2030_miudos.pdf"
   },
   {
     "id": 9,
     "titulo": "Estatuto da PCD em Miúdos",
-    "autor": "Senado Federal",
+    "autor": "É uma revista em quadrinhos lançada pelo Senado Federal que traduz a Lei Brasileira de Inclusão (Lei 13.146/2015) para crianças e jovens. A obra, com personagens marcantes, ensina de forma lúdica sobre direitos, respeito, acessibilidade e cidadania, focando na inclusão social e na valorização das diferenças.",
     "sinopse": "Inclusão da Pessoa com Deficiência.",
     "imagem": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatudo%20da%20PCD.png",
     "link": "https://raw.githubusercontent.com/escoladoparlamentocmb/biblioteca-app/main/Estatuto_PCD_miudos.pdf"
