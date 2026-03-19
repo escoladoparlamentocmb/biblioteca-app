@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "titulo": "Oficina - Educação Política para Educadores",
-    "texto": "<b>Descrição do curso:</b> O curso visa capacitar educadores populares para planejar, mediar e avaliar ações formativas que promovam a consciência crítica, a cidadania ativa e o protagonismo social, com base nos princípios da educação popular e da educação política transformadora.<br><br><b>PÚBLICO-ALVO:</b> para professores, agentes comunitários, oficineiros, bibliotecários, mediadores culturais e servidores públicos atuantes em projetos sociais.",
+    "titulo": "Oficina: Cidadania e Participação Popular na Terceira Idade",
+    "texto": "<b>Descrição do curso:</b> A oficina “Cidadania e Participação Popular na Terceira Idade” é voltada a pessoas com 60 anos ou mais e tem como objetivo fortalecer o protagonismo da pessoa idosa na vida pública do município. De forma acessível e participativa, a atividade aborda direitos da pessoa idosa, políticas públicas e os principais canais de participação popular, como conselhos e audiências públicas. A proposta valoriza a experiência de vida dos participantes e incentiva a atuação ativa na construção de uma cidade mais justa, inclusiva e democrática.  <br><br><b>PÚBLICO-ALVO:</b> pessoas com 60 anos ou mais, interessadas em ampliar seus conhecimentos sobre direitos, cidadania, políticas públicas e participação popular, bem como em fortalecer sua atuação em espaços comunitários e institucionais.",
     "botao": "Inscreva-se",
     "link": "https://sisepb.barueri.sp.leg.br/sisepb/public/events/view/195"
   },
-  {
+    {
     "id": 2,
-    "titulo": "Oficina: Cidadania e Participação Popular na Terceira Idade",
-    "texto": "<b>Descrição do curso:</b> A oficina “Cidadania e Participação Popular na Terceira Idade” é voltada a pessoas com 60 anos ou mais e tem como objetivo fortalecer o protagonismo da pessoa idosa na vida pública do município. De forma acessível e participativa, a atividade aborda direitos da pessoa idosa, políticas públicas e os principais canais de participação popular, como conselhos e audiências públicas. A proposta valoriza a experiência de vida dos participantes e incentiva a atuação ativa na construção de uma cidade mais justa, inclusiva e democrática.  <br><br><b>PÚBLICO-ALVO:</b> pessoas com 60 anos ou mais, interessadas em ampliar seus conhecimentos sobre direitos, cidadania, políticas públicas e participação popular, bem como em fortalecer sua atuação em espaços comunitários e institucionais.",
+    "titulo": "Oficina - Educação Política para Educadores",
+    "texto": "<b>Descrição do curso:</b> O curso visa capacitar educadores populares para planejar, mediar e avaliar ações formativas que promovam a consciência crítica, a cidadania ativa e o protagonismo social, com base nos princípios da educação popular e da educação política transformadora.<br><br><b>PÚBLICO-ALVO:</b> para professores, agentes comunitários, oficineiros, bibliotecários, mediadores culturais e servidores públicos atuantes em projetos sociais.",
     "botao": "Inscreva-se",
     "link": "https://sisepb.barueri.sp.leg.br/sisepb/public/events/view/184"
   }
